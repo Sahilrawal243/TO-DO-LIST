@@ -1,6 +1,10 @@
 # 📝 To-Do List (Tkinter)
 
-A simple To-Do List application built with Python and Tkinter.
+## Description
+
+The To-Do List application is a simple desktop program developed using **Python** and the **Tkinter** library. It helps users keep track of their daily tasks in an easy and organized way. Users can add new tasks, delete selected tasks, and clear all tasks with a simple graphical user interface (GUI).
+
+This project is designed for beginners who want to learn Python GUI programming. It demonstrates the basic concepts of Tkinter such as windows, labels, buttons, entry boxes, list boxes, and message boxes.
 
 ## Internship Details
 - Name : Sahil Rawal
